@@ -26,6 +26,11 @@ public class InputOfTwoNumbers {
 		
 		
 		
+		/*
+		  obviously, if this were a more elaborate program, would need a way to
+		  handle users entering wrong information.
+		 */
+		
 		
 		
 	}
