@@ -9,7 +9,7 @@ public class DivideTwoNumbers {
 		
 		System.out.println(number1 + " divided by " + number2 + " = "
 				+ number1/number2);
-		
+		System.out.println("\n");
 		// prints -->  176.0 divided by 45.0 = 3.911111
 		
 	}
