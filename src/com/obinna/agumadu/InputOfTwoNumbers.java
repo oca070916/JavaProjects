@@ -23,8 +23,7 @@ public class InputOfTwoNumbers {
 		
 		System.out.println("The sum of your 2 numbers, " + number1
 				+ " AND " + number2 + " is " + (number1 + number2));
-		
-		
+	
 		
 		/*
 		  obviously, if this were a more elaborate program, would need a way to
