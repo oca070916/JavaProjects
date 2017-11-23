@@ -6,7 +6,7 @@ public class Test {
 		
 		System.out.println("Trying to figure out this message:"
 				+ " non-fast-forward");
-		
+
 	}
 
 }
